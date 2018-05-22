@@ -1,0 +1,70 @@
+format: 1
+name: Invasion Mod
+desc: |
+  Have you in the past built fortifications, prepared your base, crafted armor and secured your chests, then noticed that no threat ever shows up? This mod seeks to fix that. If you feel the regular mobs just aren't quite up to the challenge and you want to really test your defenses, then try this out. It also enables some useful recipes and items.
+
+  Invasion Mod gives you the ability to initiate an attack on the location of your choosing. The difficulty steadily ramps up and the mobs are designed to deal with base defenses. The behaviour of all invading mobs has been extensively revamped. Most mobs have new abilities and in this beta stage there are some new mobs and substantially more powerful mobs on the way, geared towards new roles.
+authors: [Lieu, unstoppableN]
+versions:
+- name: v1.1.5
+  mcvsn: [1.6.4]
+  files:
+  - filename: Invasion_1.1.5_1.6.4.jar
+    ipfs: QmX23vmYe7d947UQM2LNKzh7sctKEekW4hJmQEaXTB1xGe
+    hash:
+      type: sha256
+      digest: 284F902472BC50DEDEB5B3440F39AC6E19C8A0EDBD6627787CB6A03BD50AD406
+    urls:
+    - type: page
+      url: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough
+    - type: original
+      url: http://adf.ly/1o0DQl
+- name: v1.1.5
+  mcvsn: [1.7.2]
+  files:
+  - filename: Invasion_1.1.5_1.7.2.jar
+    ipfs: QmUf81caxqWzenBEUB5ohM1u6kZsZRLBcuZ7XigLAjQYJA
+    hash:
+      type: sha256
+      digest: DCB75ADDA8AD76ADE7F7D22A9CF29C52C032E8E865446F4AAAC6DEE78182465C
+    urls:
+    - type: page
+      url: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough
+    - type: original
+      url: http://adf.ly/1o0DSQ
+- name: v1.1.5
+  mcvsn: [1.7.10]
+  files:
+  - filename: Invasion_1.1.5_1.7.10.jar
+    ipfs: QmcfGD5FbMCboBFzHsNX6gXpkB9yJGCmUP8GpN2gWjUG9V
+    hash:
+      type: sha256
+      digest: 3D5B70828FA884F00271030C588D2689C2A1DAF1ED5DFBA55EA137DDA9DABAAB
+    urls:
+    - type: page
+      url: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough
+    - type: original
+      url: http://adf.ly/1o0DTS
+- name: 0.7.0
+  mcvsn: [b1.8.1]
+  files:
+  - filename: invasion_mod_server_0.7.0.zip
+    ipfs: QmTeTSnouwuSYnPD23iz8J6pCPho6JfRT1pYBLRsCGcXms
+    hash:
+      type: sha256
+      digest: 6979F7067AB6FAE6C4E0A6E7DBE924DFAA3131EAC1EFD02B6E9AE4AE120F3B2E
+    urls:
+    - type: page
+      url: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough
+    - type: original
+      url: http://www.mediafire.com/?how1ck3kv2ie8ha
+  - filename: invasion_mod_client_0.7.1.zip
+    ipfs: QmRb564Z9bWgX7joSaViMksVJoMzDfoNosZRJDGyoMDrgd
+    hash:
+      type: sha256
+      digest: A5B863FD2AC880409E729B802BA3CF28FE29A0994E837EDA9F7E0CE0BA8BEDD3
+    urls:
+    - type: page
+      url: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough
+    - type: original
+      url: http://www.mediafire.com/?jo2fwduc34teywq
