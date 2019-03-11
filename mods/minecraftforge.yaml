@@ -1609,28 +1609,28 @@ versions:
     filename: minecraftforge-src-1.1.0.zip
   mcvsn: ['b1.8.1']
   desc: Requires ModLoader and ModLoaderMP.
-  name: '1.0.7'
-    files:
-    - hash:
-        digest: 4593856b151f2ee342d0a072762d081b029021f3c503e75af1159ac787298d4e
-        type: sha256
-      urls: []
-      ipfs: QmdwfCCgt3YQYhfzNwQkUQFNVYbKKzgvfbSAeATRdpLwuL
-      filename: minecraftforge-client-1.0.7.zip
-    - hash:
-        digest: 5eafb2d2eb193c32bf01cfb7b31c50c9ffa5f3bb61207a2ac9a9a8c0b1c9e1ea
-        type: sha256
-      urls: []
-      ipfs: QmWETzFge9XvFVzqiivdELMSCMZSvQCfFjGW9FKe5ahqht
-      filename: minecraftforge-server-1.0.7.zip
-    - hash:
-        digest: d387591ce00194f1613f0300ddbd4d3df33e3eef9b38b8c0792b89f8fdbd22cc
-        type: sha256
-      urls: []
-      ipfs: QmaCVfJhA7hJj6v5TXkJmN6aSJ2gTda7YmZoMqDMrteukC
-      filename: minecraftforge-src-1.0.7.zip
-    mcvsn: ['b1.7.3']
-    desc: Requires ModLoader and ModLoaderMP.
+- name: '1.0.7'
+  files:
+  - hash:
+      digest: 4593856b151f2ee342d0a072762d081b029021f3c503e75af1159ac787298d4e
+      type: sha256
+    urls: []
+    ipfs: QmdwfCCgt3YQYhfzNwQkUQFNVYbKKzgvfbSAeATRdpLwuL
+    filename: minecraftforge-client-1.0.7.zip
+  - hash:
+      digest: 5eafb2d2eb193c32bf01cfb7b31c50c9ffa5f3bb61207a2ac9a9a8c0b1c9e1ea
+      type: sha256
+    urls: []
+    ipfs: QmWETzFge9XvFVzqiivdELMSCMZSvQCfFjGW9FKe5ahqht
+    filename: minecraftforge-server-1.0.7.zip
+  - hash:
+      digest: d387591ce00194f1613f0300ddbd4d3df33e3eef9b38b8c0792b89f8fdbd22cc
+      type: sha256
+    urls: []
+    ipfs: QmaCVfJhA7hJj6v5TXkJmN6aSJ2gTda7YmZoMqDMrteukC
+    filename: minecraftforge-src-1.0.7.zip
+  mcvsn: ['b1.7.3']
+  desc: Requires ModLoader and ModLoaderMP.
 - name: '1.0.6'
   files:
   - hash:
